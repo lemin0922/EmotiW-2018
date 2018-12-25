@@ -20,8 +20,8 @@ This code is tested on below setting.
 ### Usage
 **Step 1. Clone this respository to local.**
 ```angular2html
-git clone https://github.com/lemin/emotiw.git
-cd emotiw
+git clone https://github.com/lemin/EmotiW-2018.git
+cd EmotiW-2018
 ```
 
 **Step 2. Prepare dataset.** \

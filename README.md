@@ -8,7 +8,7 @@ Finally, we got **59.72%** accuracy in this challenge and we are **7th** in 32 t
 
 We use AFEW dataset that use EmotiW challenge. You can get AFEW dataset after the administrator's approval in EmotiW website.
 
-Our method is combinations of 3D CNN, 2D CNN, and RNN.
+Our method is combinations of 3D CNN, 2D CNN, and RNN. 
 - 3D CNN
   - C3D
   - [ResNet 3D](https://github.com/kenshohara/video-classification-3d-cnn-pytorch)
@@ -27,7 +27,7 @@ This code is tested on below setting.
 - Ubuntu 16.04
 - Python 3.5
 - Cuda 9.0 
-- [Pytorch](https://pytorch.org)
+- [Pytorch](https://pytorch.org) 0.4.1
 
 ### Usage
 **Step 1. Clone this respository to local.**

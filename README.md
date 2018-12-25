@@ -3,7 +3,7 @@
 ### Description
  The audio-video sub-challenge focuses on emotion classification tasks based on videos, 
 which contains seven basic emotion categories: Angry, Disgust, Fear, Happy, Sad, Surprise and Neutral. \
-For more detailed information, please refer to webisite [[EmotiW 2018]](https://sites.google.com/view/emotiw2018). \
+For more detailed information, please refer to webisite [[EmotiW 2018]](https://sites.google.com/view/emotiw2018). 
 Finally, we got **59.72%** accuracy in this challenge and we are **7th** in 32 teams. It can be seen [this link](https://arxiv.org/abs/1808.07773). \
 
 We use AFEW dataset that use EmotiW challenge. You can get AFEW dataset after the administrator's approval in EmotiW website.

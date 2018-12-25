@@ -36,7 +36,7 @@ git clone https://github.com/lemin/EmotiW-2018.git
 cd EmotiW-2018
 ```
 
-**Step 2. Prepare dataset.** \
+**Step 2. Prepare dataset.** 
 1. Pre-processing method is to crop the face after detecting the face every frame and make it into `.npz` file.
 The algorithm we used is [MTCNN](https://github.com/kpzhang93/MTCNN_face_detection_alignment). 
 2. We extract 4069-d feature for every data frame by frame using DenseNet after training DenseNet. 

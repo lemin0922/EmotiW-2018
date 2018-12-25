@@ -11,10 +11,10 @@ We use AFEW dataset that use EmotiW challenge. You can get AFEW dataset after th
 Our method is combinations of 3D CNN, 2D CNN, and RNN.
 - 3D CNN
   - C3D
-  - ResNet 3D
-  - ResNeXt 3D 
+  - [ResNet 3D](https://github.com/kenshohara/video-classification-3d-cnn-pytorch)
+  - [ResNeXt 3D](https://github.com/kenshohara/video-classification-3d-cnn-pytorch) 
 - 2D CNN
-  - DenseNet
+  - [DenseNet](https://github.com/titu1994/DenseNet)
 - RNN
   - LSTM
   - GRU
